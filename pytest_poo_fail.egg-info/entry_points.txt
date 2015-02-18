@@ -1,3 +1,0 @@
-[pytest11]
-pooprovider = pytest_poo_fail
-
