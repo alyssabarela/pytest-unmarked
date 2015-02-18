@@ -1,5 +1,6 @@
-pytest-poo is a plugin for `pytest <http://pytest.org/>`_ that points out your
-crappy tests with piles of poo.
+Pytest-unmarked
+============
+Allows you to run all unmarked tests
 
 Requirements
 ============
@@ -7,13 +8,7 @@ A recent version of pytest is required (>= 2.3.4).
 
 
 
-Showing crappy (failed)  tests during test run
+Running unmarked tests
 ------------------------------------
 
-Just run py.test with the ``--poo`` option to enable the output. To always
-enable, add ``--poo`` to addopts in pytest.ini::
-
-    [pytest]
-    addopts = --poo
-
-
+Just run py.test with the ``--unmarked`` option to enable.
