@@ -16,7 +16,7 @@ def read(fname):
 
 
 setup(name='pytest-unmarked',
-      version='0.9',
+      version='1.0',
       description='Run only unmarked tests',
       author='Alyssa Barela',
       author_email='alyssa.barela17@gmail.com',
@@ -26,7 +26,7 @@ setup(name='pytest-unmarked',
       py_modules=['pytest_unmarked'],
       long_description=read('README.rst'),
       install_requires=['pytest>=2.3.4'],
-      classifiers=['Development Status :: 2 - Pre-Alpha',
+      classifiers=['Development Status :: 5 - Production/Stable',
                    'Intended Audience :: Developers',
                    'License :: OSI Approved :: BSD License',
                    'Operating System :: OS Independent',
