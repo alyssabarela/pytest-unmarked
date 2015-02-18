@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+pytest_poo_fail.py
+setup.py
+pytest_poo_fail.egg-info/PKG-INFO
+pytest_poo_fail.egg-info/SOURCES.txt
+pytest_poo_fail.egg-info/dependency_links.txt
+pytest_poo_fail.egg-info/entry_points.txt
+pytest_poo_fail.egg-info/requires.txt
+pytest_poo_fail.egg-info/top_level.txt
