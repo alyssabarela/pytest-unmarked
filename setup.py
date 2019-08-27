@@ -16,7 +16,7 @@ def read(fname):
 
 
 setup(name='pytest-unmarked',
-      version='1.2',
+      version='1.3',
       description='Run only unmarked tests',
       author='Alyssa Barela',
       author_email='alyssa.barela17@gmail.com',
